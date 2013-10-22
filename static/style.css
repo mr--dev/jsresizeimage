@@ -1,0 +1,33 @@
+body {
+    background-color: #DFDFDF;
+}
+#content {
+    background-color: white;
+    padding: 50px;
+    margin: 100px auto;
+    width: 75%;
+    border: solid 1px black;
+    display: table;
+}
+.row {
+    margin: 20px;
+}
+fieldset {
+    width: 340px; 
+    height: 250px; 
+    margin: 0 auto;
+}
+#thumbnail {
+    border: dotted 1px black;
+}
+footer {
+    text-align: right;
+}
+.right {
+    float: right;
+    width: 50%;
+}
+.left {
+    float: left;
+    width: 50%
+}
